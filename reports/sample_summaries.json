@@ -1,0 +1,72 @@
+[
+  {
+    "applicant_id": 1,
+    "probability": 0.6733,
+    "risk_tier": "HIGH RISK",
+    "recommendation": "DECLINE",
+    "summary": "**Credit Risk Summary**\n\nThis applicant is classified as HIGH RISK and we recommend DECLINING the loan. \n\nThe top risk factors contributing to this assessment are:\n\n1. **Multiple external sources indicating poor credit history**: The applicant has been reported by multiple external sources, which suggests a history of missed payments or other credit issues.\n2. **Income ratio too high**: The applicant's income from annuity payments is a significant portion of their monthly income, leaving limited room for other expenses and debt payments.\n3. **Short employment history**: The applicant has been employed for a relatively short period, which may indicate instability or a lack of experience in their current role.\n\nDespite these risk factors, there are some mitigating factors, including positive reports from one external source, a relatively long loan term, and the applicant's family status.\n\nIn light of these findings, we recommend DECLINING the loan. If the applicant is interested in reapplying, we suggest reviewing their credit history, improving their income ratio, and increasing their employment tenure before reapplying."
+  },
+  {
+    "applicant_id": 2,
+    "probability": 0.2352,
+    "risk_tier": "LOW RISK",
+    "recommendation": "APPROVE",
+    "summary": "**Credit Risk Summary**\n\nThe applicant is categorized as LOW RISK with a predicted default probability of 23.52%, and we strongly recommend APPROVING their loan application.\n\nUpon reviewing the credit assessment, we note the following top risk factors that contribute to the applicant's default probability:\n\n1. **Limited credit history**: The applicant's credit history is relatively short, which may impact their ability to manage debt and maintain a good credit score.\n2. **Age**: The applicant's age may be a factor in their financial decision-making, potentially resulting in higher default risks.\n3. **Employment stability**: The applicant's employment history may be relatively short, which can increase the risk of default if they lose their job or experience financial difficulties.\n\nWe acknowledge the presence of mitigating factors, including a stable employment history, higher education level, and a relatively low maximum floor plan average. These factors help to offset the risks associated with the applicant's credit profile.\n\nBased on this assessment, we recommend APPROVING the loan application and proceed with the next steps in the lending process."
+  },
+  {
+    "applicant_id": 3,
+    "probability": 0.6746,
+    "risk_tier": "HIGH RISK",
+    "recommendation": "DECLINE",
+    "summary": "**Credit Risk Summary**\n\nThis applicant is categorized as HIGH RISK, with a predicted default probability of 67.46%, and I recommend DECLINING the loan application.\n\n**Key Risk Factors:**\n\nThree primary risk factors have been identified in this assessment. Firstly, the source of the applicant's income (EXT SOURCE 3) contributes 34.8% to the overall risk, suggesting that the lender may be exposed to higher default risk due to uncertain income stability. The loan term also plays a significant role, with a contribution of 26.8%, indicating that the longer repayment period may increase the likelihood of default. Furthermore, the applicant's external income sources exhibit a high mean and minimum, contributing 24.9% and 8.5% to the overall risk, respectively.\n\n**Mitigating Factors:**\n\nWhile the applicant's credit profile presents several risk factors, there are some positive indicators. The applicant owns a car, has a relatively short registration period, and has a female gender, which somewhat mitigates the overall risk.\n\n**Recommendation and Next Steps:**\n\nBased on the high predicted default probability and significant risk factors, I recommend declining this loan application. However, I suggest reviewing the applicant's credit profile in conjunction with additional information, such as credit history and income verification, to better understand the underlying risks."
+  },
+  {
+    "applicant_id": 4,
+    "probability": 0.1428,
+    "risk_tier": "LOW RISK",
+    "recommendation": "APPROVE",
+    "summary": "**Credit Risk Summary:**\n\nThis applicant is categorized as LOW RISK with a predicted default probability of 14.28% and a recommendation to APPROVE. \n\nThe top risk factors contributing to this applicant's credit profile are:\n1. The applicant has an external source of income, which accounts for 6.9% of the risk. This could indicate that the applicant has multiple sources of income, which is generally viewed as a positive factor. However, it also means that the applicant may have a higher income variability, making it slightly riskier to lend to them.\n2. The applicant is married, which accounts for 5.5% of the risk. Marriage can be a positive factor, as married individuals often have a more stable financial situation. However, it could also indicate that the applicant has greater financial responsibilities, such as supporting a spouse or children.\n3. The applicant resides in a relatively expensive area, which accounts for 5.5% of the risk. This could indicate that the applicant has higher living expenses, which could impact their ability to repay the loan.\n\nThe applicant's loan term and employment history are mitigating factors, reducing the overall risk. Based on this assessment, we recommend APPROVING the loan and moving forward with the next steps in the underwriting process."
+  },
+  {
+    "applicant_id": 5,
+    "probability": 0.4623,
+    "risk_tier": "MEDIUM RISK",
+    "recommendation": "REVIEW",
+    "summary": "Credit Risk Summary:\n\nThis applicant is classified as MEDIUM RISK with a predicted default probability of 46.23%. Our assessment suggests reviewing the application further to determine the best course of action.\n\nThe top risk factors contributing to this assessment are:\n\n- The applicant is female, which historically has been associated with a higher risk of default.\n- The applicant's loan term is lengthy, indicating a higher likelihood of default due to potential financial strain.\n- The applicant has limited employment history, which can make it challenging to assess their creditworthiness.\n\nHowever, our analysis also identifies several mitigating factors, including a favorable income-to-expense ratio and positive external credit sources. These factors may help offset some of the risk associated with the applicant's profile.\n\nBased on this analysis, we recommend further review of the application to assess the applicant's individual circumstances and determine the most suitable loan terms, including potential adjustments to interest rates, loan amounts, or repayment schedules."
+  },
+  {
+    "applicant_id": 6,
+    "probability": 0.717,
+    "risk_tier": "HIGH RISK",
+    "recommendation": "DECLINE",
+    "summary": "**Credit Risk Summary**\n\nThe applicant is assessed as a HIGH RISK individual with a predicted default probability of 71.70%, and we recommend DECLINING the loan application.\n\n**Top Risk Factors:**\n\nThe top three risk factors contributing to the applicant's high default probability are:\n\n1. **Inconsistent income history**: The applicant's external income sources are inconsistent, indicating volatility in their income, which increases the likelihood of default.\n2. **Limited credit history**: The applicant has limited credit history, making it difficult for us to assess their creditworthiness and ability to manage debt.\n3. **Recent financial stress**: The applicant has recently published an income statement, indicating that they may be experiencing financial difficulties, which further increases the risk of default.\n\n**Mitigating Factors:**\n\nWe acknowledge the mitigating factors, including a relatively long loan term, a reasonable credit to income ratio, and the applicant's stable family status, which all contribute to a slightly lower risk profile.\n\n**Recommendation:**\nBased on the analysis, we recommend DECLINING the loan application due to the high predicted default probability and significant risk factors. Next steps will involve communicating the decision to the applicant and documenting the credit assessment for our records."
+  },
+  {
+    "applicant_id": 7,
+    "probability": 0.2289,
+    "risk_tier": "LOW RISK",
+    "recommendation": "APPROVE",
+    "summary": "**Credit Risk Summary**\n\nThis applicant is classified as LOW RISK with a predicted default probability of 22.89%. We recommend APPROVING the loan application.\n\nThe top 3 risk factors contributing to the applicant's credit risk are:\n\n1. Limited credit history from a specific external source (EXT SOURCE 3), which accounts for 9.9% of the total risk.\n2. A relatively short employment history (DAYS EMPLOYED), which accounts for 8.4% of the total risk.\n3. Limited number of years in employment (EMPLOYMENT YEARS), contributing 7.6% to the total risk.\n\nHowever, the analysis also reveals several mitigating factors that offset these risks, including a strong average credit history from external sources (EXT SOURCE MEAN), a stable income (LOAN TERM), and a relatively short time since identity publication (DAYS ID PUBLISH).\n\nBased on this assessment, we recommend APPROVING the loan application. Next steps include finalizing the loan terms and conducting any necessary due diligence to ensure a smooth lending process."
+  },
+  {
+    "applicant_id": 8,
+    "probability": 0.7824,
+    "risk_tier": "HIGH RISK",
+    "recommendation": "DECLINE",
+    "summary": "**Credit Risk Summary**\n\nThis applicant is categorized as HIGH RISK with a predicted default probability of 78.24% and a recommendation to DECLINE the loan.\n\nThe top risk factors contributing to this assessment are:\n\n1. **Extensive credit history**: The applicant's extensive credit history has significantly impacted the risk assessment, indicating a high level of credit risk.\n2. **Low credit score minimum**: The applicant's low credit score minimum suggests a history of poor credit management, further increasing the risk of default.\n3. **Limited credit mix**: The applicant's limited credit mix, as indicated by the relatively low contribution of multiple external sources, suggests a reliance on a single credit source, which can be a sign of risk.\n\nWhile there are some mitigating factors, including a relatively short loan term, the presence of a car, and certain flag documents, these factors are not sufficient to offset the high level of risk associated with this applicant.\n\n**Recommendation**: Based on the high level of risk, we recommend DECLINING the loan application. Next steps will include providing the applicant with feedback on areas for improvement to be considered for future loan applications."
+  },
+  {
+    "applicant_id": 9,
+    "probability": 0.4778,
+    "risk_tier": "MEDIUM RISK",
+    "recommendation": "REVIEW",
+    "summary": "**Credit Risk Summary**\n\nThe applicant is categorized as MEDIUM RISK with a predicted default probability of 47.78%. We recommend REVIEWING the application to further assess the creditworthiness.\n\nThe top risk factors contributing to this assessment are:\n\n* **EXT SOURCE MEAN**: This factor suggests that the applicant's credit history is inconsistent, with a mix of good and bad payments. It's a red flag because it indicates a lack of stable payment behavior.\n* **EXT SOURCE MIN**: This factor indicates that the applicant has experienced a minimum credit balance, which can be a sign of financial struggles or difficulties paying debts.\n* **AMT ANNUITY**: This factor suggests that the applicant's debt-to-income ratio is high, potentially making it challenging for them to afford loan payments.\n\nHowever, we also note that there are several mitigating factors, including a relatively long credit history, a moderate loan term, and a decent age. These factors could help offset some of the risk associated with the applicant.\n\n**Recommendation**: We recommend lending to this applicant with caution and closely monitoring their loan performance. Further review and analysis are needed to ensure the loan is adequately collateralized and the applicant's creditworthiness is adequately assessed."
+  },
+  {
+    "applicant_id": 10,
+    "probability": 0.2685,
+    "risk_tier": "LOW RISK",
+    "recommendation": "APPROVE",
+    "summary": "**Credit Risk Summary**\n\nThis loan applicant falls into the LOW RISK tier with a recommended APPROVE status, accompanied by a predicted default probability of 26.85%.\n\nThe top three risk factors contributing to this assessment can be broken down as follows:\n\n1. **Credit history from a non-traditional source (EXT SOURCE 1)**: The applicant's credit history from this external source accounts for 20.6% of the overall risk. This suggests that their creditworthiness may not be fully reflected in their traditional credit reports.\n2. **Inconsistent credit history across multiple sources (EXT SOURCE 3)**: This factor contributes 12.1% to the overall risk, indicating that the applicant's credit history may not be complete or accurate across all sources.\n3. **High credit income ratio**: With a contribution of 10.8%, this factor indicates that the applicant's debt obligations may be relatively high compared to their income.\n\nHowever, the overall assessment is mitigated by factors such as a positive external credit score mean, a stable employment history, and a relatively short loan term. Despite these factors, the applicant's low predicted default probability and LOW RISK tier status support a lending APPROVE recommendation. The loan should be approved subject to standard underwriting and risk management procedures."
+  }
+]

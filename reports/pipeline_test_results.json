@@ -1,0 +1,32 @@
+{
+  "pipeline_test": "PASSED",
+  "input_rows": 5,
+  "input_columns": 122,
+  "results": [
+    {
+      "probability": 0.8407,
+      "risk_tier": "HIGH RISK",
+      "recommendation": "DECLINE"
+    },
+    {
+      "probability": 0.2733,
+      "risk_tier": "LOW RISK",
+      "recommendation": "APPROVE"
+    },
+    {
+      "probability": 0.2568,
+      "risk_tier": "LOW RISK",
+      "recommendation": "APPROVE"
+    },
+    {
+      "probability": 0.3958,
+      "risk_tier": "MEDIUM RISK",
+      "recommendation": "REVIEW"
+    },
+    {
+      "probability": 0.5964,
+      "risk_tier": "MEDIUM RISK",
+      "recommendation": "REVIEW"
+    }
+  ]
+}
