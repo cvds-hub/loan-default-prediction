@@ -1,4 +1,19 @@
-data/ 
-__pycache__/ 
-.env 
-src/shap_values.pkl 
+# Data — too large for GitHub
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
