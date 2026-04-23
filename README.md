@@ -182,21 +182,4 @@ User → Next.js Frontend → FastAPI Backend → LightGBM Model → SHAP → Gr
 
 
 
-\## Assessment Criteria Coverage
-
-
-
-| Category | Weight | Deliverable |
-
-|---|---|---|
-
-| Data Science Quality | 30% | EDA, feature engineering, model comparison, SHAP |
-
-| Engineering | 25% | Scikit-learn pipeline, ETL script, clean repo |
-
-| Deployment | 20% | Live Vercel URL, FastAPI backend on Render |
-
-| AI Integration | 15% | Groq-powered credit summaries |
-
-| Presentation | 10% | Report, slides, demo video |
 
