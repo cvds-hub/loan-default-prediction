@@ -130,9 +130,8 @@ def predict(applicant: ApplicantInput):
     # Create a template row with all expected columns set to NaN
     template = pd.read_csv(
         os.path.join(os.path.dirname(os.path.abspath(__file__)), 
-        "../data/application_train.csv"), nrows=1
+        "template_row.csv"), nrows=1
     )
-    template = template.drop(columns=["TARGET"], errors="ignore")
     template_row = template.iloc[0:1].copy()
 
     # Override with provided values
