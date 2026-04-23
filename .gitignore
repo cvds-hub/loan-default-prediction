@@ -1,5 +1,4 @@
 data/ 
 __pycache__/ 
-*.pkl 
 .env 
 src/shap_values.pkl 
